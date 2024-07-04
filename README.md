@@ -23,7 +23,7 @@ Cost-Effectiveness: Pay only for the resources and services you use.
 Accessibility: Access services and data from anywhere with an internet connection.
 Reliability: Enhanced redundancy and disaster recovery capabilities.
 
-
+*Ecosystem of the cloud*
 
 
 
