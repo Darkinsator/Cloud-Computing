@@ -38,6 +38,8 @@ There are three main components in a cloud services solution. The first componen
 
 ![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/592ee917-ff99-4f4f-af58-b0c060d4b050)
 
+Module 2:
+
 
 
 
