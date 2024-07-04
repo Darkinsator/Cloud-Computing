@@ -2,6 +2,7 @@
 Module 1 to 2 on cloud computing
 
 Module 1:
+Chapter 1:
 Cloud computing ecosystems: What is the cloud?
 
 In simple terms the cloud refers to server and storage systems which are assessible through the internet used to allow user the store data, run applications and perform computing tasks without needing to maintain physical hardware on their premises. 
@@ -38,7 +39,111 @@ There are three main components in a cloud services solution. The first componen
 
 ![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/592ee917-ff99-4f4f-af58-b0c060d4b050)
 
+Chapter 2:  Embracing the Business Imperative:
+
+With the rise of commercial cloud computing vendors and services, the role of IT is changing dramatically. While the IT organization in the past had total control of computing resources, now IT is tasked with providing oversight, management, and vetting of options. IT must be able to provide the business with ways to integrate processes and data across silos. The security organization is also responsible for ensuring security and compliance. 
+
+IT now has to provide oversight and management of both cloud and on-premises computing services. This means that IT needs to provide a transition plan for applications that no longer have the modularity to support business requirements. IT operations have to ensure that performance in a hybrid and multicloud world is consistent and predictable.
+
+![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/77818be8-1d13-4b67-b853-59035542fccd)
+ Creating a cycle of innovation
+
+Modern Development and Deployment Strategies
+How does an established business move to an innovative cloud strategy? How do applications get developed so that they’re innovative and ready to support a multicloud environment? DevOps — a combination of modern application development and deployment techniques — is the requirement for building cloud-based innovation. With DevOps, developers employ an agile development approach that assumes an iterative development process. 
+
+The focus of DevOps and agile development is to focus on customer needs and metrics that can predict success. How do customers use the new software? Is it intuitive? Does it encourage customers to stay on the site and purchase additional merchandise? Is the application modular and flexible enough to adopt as customers react to the environment? Is it easy to partner with businesses that offer complementary offerings? What is the performance like once the software is deployed across different cloud platforms and within an on-premises environment?
+
+# 3.Cloud Architecture Considerations
+
+![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/4f317a5a-7365-4b39-bdb5-7f40f3d5458c)
+
+Cloud consumers:  The individuals and groups within your business unit that use different types of cloud services to get a task accomplished. A cloud consumer could be a developer using computing services from a public cloud.
+Direct customers:  Users who often take advantage of services that your business has created within a cloud environment. End users of your service have no idea that you are using a public or private cloud. As far as the users are concerned, they are interacting directly with your services and value.
+Cloud service provider:  Commercial vendors or companies that create their own capabilities. Commercial vendors sell their services to cloud consumers. In contrast, a company might decide to become an internal cloud service provider to its own employees, partners, and customers — either as an internal service or as a profit center. These providers also create applications or services for these environments.
+
+
+# Setting the Right Policies and Business Rules
+Companies generally think about policy and business rules from an overall governance perspective. On the contrary, making policies and rules operational in a hybrid cloud environment means that these dictates must be integrated from an architectural perspective.
+
+Building a policy or rule into the actual application may be straightforward in an on-premises environment. In a hybrid environment, however, you must make sure those policy requirements can be applied across components. 
+
+For example, if a policy requires that personal data about French customers is stored in a physical server in France, this policy must be designed as a middleware service that controls the movement of data based on rules and conditions. it is not practical to try to implement each rule and policy inside each component of the hybrid environment.
+
+The life cycle of cloud computing is different in many ways from the life cycle of a traditional computing environment. The architecture of the cloud environment is predicated on the ability to abstract the details away from users based on a services-oriented architecture. As a result of the cloud, you must think about the term life cycle in a new way. 
+
+4. Managing a Hybrid and Multicloud Environment
+
+Understanding the Role of Internal SLAs
+
+When a company is a private or hybrid cloud provider to its internal consumers, the company should define SLAs for the resources and services provided. Doing so will formalize the operational requirements for those services and increase the chances that consumers will be pleased with the internal services. SLAs provide objective targets for performance and other operational characteristics, such as mean time between failures, and therefore are important for determining whether performance problems with applications are due to problems with the application or problems with the resources and services that the application uses.
+
+In the public cloud, management of resources and services is the responsibility of the public cloud vendor or the third party who provides the software. A responsible organization should continually monitor the software operation to ensure that SLAs are being met. In the private cloud environment, it is usually the responsibility of IT operations to monitor the software for deviations from SLA commitments.
+
+While public cloud providers have the responsibility to watch SLAs, they have many customers and may not always respond immediately. On the other hand, a company running its own private cloud has one customer (itself) and is equally responsible for ensuring that all applications, services, and resources are always working effectively. In some organizations, executives will be watching whether SLAs are being met because problems can affect the company’s bottom line.
+
+
+# Managing External Services
+In a hybrid cloud environment, organizations manage a variety of services, from basic data storage to custom applications in the public cloud. Successful management requires visibility and control over both external and internal resources.
+
+DevOps and Deployment to Public Clouds
+Modern cloud software development follows DevOps practices, integrating Development and Operations to enable continuous development and deployment. DevOps streamlines application management, making software more robust by involving developers in operational issues. After deployment, DevOps engineers monitor and address operational problems, quickly updating and redeploying applications as needed.
+
+External System Monitoring
+Monitoring external applications and services is crucial, as feedback from external users is less accessible compared to internal users. Providing external customers with product and operational status updates is essential due to their limited awareness and loyalty.
+
+Application and Service Life Cycles
+Public cloud applications must meet high availability standards. Continuous development and deployment aim to release new features without downtime, maintaining user access. Designing failover capabilities is critical to minimize disruptions and prevent data loss during failures, ensuring reliability and robustness.
+
+# The Future of Multicloud Management
+The hybrid cloud landscape is evolving with diverse services and deployment models, making integrated management of internal and external cloud and data center services crucial for efficient operations. Organizations often utilize multiple public cloud services alongside private and third-party services, increasing complexity as they scale.
+
+Key questions to consider for multicloud management include:
+
+What services are currently used and what additional ones are anticipated?
+Why is each service used, and does it meet business requirements?
+Do services meet the required security and governance standards?
+Is data stored in the appropriate geographic location?
+Is the environment's latency acceptable to all users?
+A successful multicloud management strategy requires an infrastructure that seamlessly integrates all services, ensuring consistency and predictability across the entire environment, rather than treating services as isolated components.
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Module 2:
+
+
 
 
 
