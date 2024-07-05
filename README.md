@@ -127,6 +127,14 @@ Portability enables you to take applications, data, or instances running on one 
 
 The Impact of Standards on the Multicloud
    
+Standards let you do the following:
+
+
+1. Move your infrastructure or applications from one cloud provider to another. With cloud standards across clouds, you do not have to rewrite code. In a multicloud world, where you may have part of the resources associated with an application on your own premises and part with a cloud provider, this capability is important because it enables your organization to be more flexible about where your resources may be located.
+
+2. Prevent vendor lock-in. Lock-in occurs when you are so entrenched with a particular provider and its interfaces that moving to another provider is too costly. Removing barriers to lock-in increases your choices.
+
+3. Integrate applications more easily between your on-premises data center and private and public cloud environments. Face it; integrating your assets across multiple environments can be time-consuming and costly if every cloud provider has a proprietary model. Standards help to make integration easier and eliminate many common barriers.
 
 
 
