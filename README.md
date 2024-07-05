@@ -106,9 +106,26 @@ Is data stored in the appropriate geographic location?
 Is the environment's latency acceptable to all users?
 A successful multicloud management strategy requires an infrastructure that seamlessly integrates all services, ensuring consistency and predictability across the entire environment, rather than treating services as isolated components.
 
+Standards in the cloud world:
 
+SDOS vs SSOS
+Clearly setting standards can be complex and involves a number of organizations and bodies. Standards Developing Organizations (SDOs) and Standards Setting Organizations (SSOs) can be differentiated by how they create a standard. As the name implies, an SDO comes together to create and develop a standard. SSOs only set a standard. An SSO relies on an external body to develop the technical specifications and then subsequently adopts those specifications as a standard. Although SSOs may sound less influential, they can be quite successful at setting standards. The World Wide Web Consortium (W3C), for example, has had a long history of developing important standards for the web. These include HTML, CSS, and XML, which have received broad worldwide adoption. For a standard to truly succeed, it needs to be:
 
+Broadly recognized and adopted by vendors,
+Broadly adopted and demanded by consumers,
+Open source.
+If these criteria are not met, a “standard” is far from standard and is instead just a document. Regardless, establishing cloud standards is important because standards help improve choice, reduce cost, and improve quality. While standards are being developed in many specific areas, areas, where standards are being broadly developed, include the following:
 
+Interoperability
+Portability
+Security
+
+Interoperability is the ability for independent systems to work together and/or share information. One of the most important aspects of interoperability is the ability to enable applications to exchange data in a multicloud or on-premises data centre. It also includes independent cloud deployments working together, such as public clouds from different vendors or interoperability between a private cloud and an external public cloud. 
+
+Portability
+Portability enables you to take applications, data, or instances running on one vendor’s system and deploy it on another vendor’s implementation. For example, you may want to move your data or application from one cloud environment to another.
+
+The Impact of Standards on the Multicloud
    
 
 
