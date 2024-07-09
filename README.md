@@ -136,40 +136,16 @@ Standards let you do the following:
 
 3. Integrate applications more easily between your on-premises data center and private and public cloud environments. Face it; integrating your assets across multiple environments can be time-consuming and costly if every cloud provider has a proprietary model. Standards help to make integration easier and eliminate many common barriers.
 
-# 6. A Closer Look at Cloud Services 
+
+# Module 2: What is azure?
+
+![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/ba405ef4-9244-4fca-9b99-5ae3fdcd00d3)
+
+# Features of azure
+![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/3b6bdc3d-d94d-4b3b-8dd5-ff94ba4a2fbd)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Module 2:
-
+![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/ed72d448-0247-4bdf-bebb-6b340d866603)
 
 
 
