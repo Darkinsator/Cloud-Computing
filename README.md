@@ -144,8 +144,23 @@ Standards let you do the following:
 # Features of azure
 ![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/3b6bdc3d-d94d-4b3b-8dd5-ff94ba4a2fbd)
 
+# Azure Services
+
+![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/e02f279f-b949-4e59-b15c-176e5f06e5e7)
+
+# Core Architecture and Resource Management Concepts:
 
 ![image](https://github.com/Darkinsator/Cloud-Computing/assets/112648301/ed72d448-0247-4bdf-bebb-6b340d866603)
+
+# Azure Role-Based Access Control (Azure RBAC)
+
+It is important for any organization to be able to manage the user access for cloud resources and resource groups in Microsoft Azure. The Azure Role-based Access Control (RBAC) helps in user access management of resources in Azure. RBAC helps in controlling what users can do.
+
+Azure RBAC is a system for authorization and access management of resources within the Azure platform. You can filter what a certain group of users can do and cannot do depending on the type of role they have in the organization.
+
+
+   
+  
 
 
 
