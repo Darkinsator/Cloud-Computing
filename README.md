@@ -158,6 +158,63 @@ It is important for any organization to be able to manage the user access for cl
 
 Azure RBAC is a system for authorization and access management of resources within the Azure platform. You can filter what a certain group of users can do and cannot do depending on the type of role they have in the organization.
 
+Describe Azure Architecture and Services:
+
+Describe the core architectural components of Azure
+Describe Azure compute and networking services
+Describe Azure Storage services
+Describe Azure identity, access, and security
+
+Azure Organization:
+
+Geographies & Regions: Organized by geographic areas, each with multiple regions. Regions have pairs for high availability.
+Sovereign Regions: Cater to specific government and country requirements.
+Availability Zones: Ensure high availability within a region, with each enabled region having at least three zones.
+Data Centers: Physical buildings with their own power, water, cooling, and network systems.
+Resource Management:
+
+Resource Groups: Logical entities for organizing Azure resources.
+Azure Subscriptions: Provide access to create and manage resources.
+Management Groups: Logical entities for managing multiple subscriptions.
+Compute Services:
+
+Azure Container Instances (ACI): Serverless option for running containerized workloads.
+Azure Functions: Hosting microservices in the cloud.
+Virtual Machines (VMs): Easily create VMs with various operating systems.
+Availability Sets & VM Scale Sets: Ensure high availability and scalability of VMs.
+Azure Virtual Desktop (AVD): Desktop virtualization service.
+App Hosting:
+
+Azure App Service: PaaS for hosting web apps.
+Azure Kubernetes Service (AKS): PaaS for Kubernetes clusters.
+Azure Spring Cloud: Hosting Spring apps.
+Networking:
+
+Virtual Networks (VNets): Create network environments in the cloud.
+VNet Peering: Connect VNets, including global peering.
+Azure DNS: Manage DNS records.
+Azure VPN Gateway & ExpressRoute: Securely connect VNets to other networks.
+Storage Services:
+
+Azure Blob Storage: Store binary files in Blobs.
+Azure Disks: Storage for VM disks.
+Azure Files: Cloud-based SMB file shares.
+Storage Tiers & Redundancy: Hot, Cool, and Archive tiers; LRS, ZRS, GRS, GZRS for redundancy.
+Data Migration:
+
+Azure Migrate: Discover, assess, and migrate workloads.
+Azure Data Box: Offline data migration.
+Identity & Security:
+
+Azure Active Directory (AD): Cloud-based identity service.
+Azure AD Domain Services: Connect on-premises domains to Azure AD.
+Single Sign-On (SSO) & Multifactor Authentication (MFA): Enhance security and ease of access.
+Passwordless Authentication & Guest Users: Alternative authentication methods and collaboration.
+Conditional Access & Role-Based Access Control (RBAC): Define access policies and roles.
+Defense in Depth & Zero-Trust: Multiple security layers and end-to-end security frameworks.
+Microsoft Defender for Cloud: Manage security and compliance across resources.
+
+
 
    
   
